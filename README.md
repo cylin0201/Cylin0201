@@ -3,7 +3,7 @@
 <!-- badge -->
 <p align = 'center'>
   <!-- gmail -->
-  <img src = "https://img.shields.io/badge/solotache@khu.ac.kr-DC143C?style=flat-square&logo=gmail&logoColor=white"/> 
+  <img src = "https://img.shields.io/badge/solotache@khu.ac.kr-a40f16?style=flat-square&logo=gmail&logoColor=white"/> 
   <!-- blog -->
   <a href = "https://blog.naver.com/solotache"><img src="https://img.shields.io/badge/Tech Blog-009900?style=flat-square&logo=naver&logoColor=white"/>
 </p>
