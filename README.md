@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Welcome%20To%20My%20Page!😊)
 
 <p align = 'center'>
-  ✉️**Contact**
+  ✉️Contact
 </p>
 <!-- badge -->
 <p align = 'center'>
