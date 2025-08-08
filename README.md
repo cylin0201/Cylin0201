@@ -8,5 +8,5 @@
   <!-- gmail -->
   <img src = "https://img.shields.io/badge/solotache@khu.ac.kr-a40f16?style=flat-square&logo=gmail&logoColor=white"/> 
   <!-- blog -->
-  <a href = "https://blog.naver.com/solotache"><img src="https://img.shields.io/badge/Tech Blog-009900?style=flat-square&logo=naver&logoColor=white"/>
+  <a href = "https://velog.io/@cylin0201/posts"><img src="https://img.shields.io/badge/Tech Blog-009900?style=flat-square&logo=velog&logoColor=white"/>
 </p>
