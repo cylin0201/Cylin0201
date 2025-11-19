@@ -1,12 +1,60 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Welcome%20To%20My%20Page!😊)
+<h2>😎 Hello World!</h2>
 
-<p align = 'center'>
-  ✉️Contact
+<p>
+성능 최적화와 안정적인 시스템 설계를 고민하는  
+<strong>백엔드 개발자 김원기입니다.</strong>  
 </p>
-<!-- badge -->
-<p align = 'center'>
-  <!-- gmail -->
-  <img src = "https://img.shields.io/badge/solotache@khu.ac.kr-a40f16?style=flat-square&logo=gmail&logoColor=white"/> 
-  <!-- blog -->
-  <a href = "https://velog.io/@cylin0201/posts"><img src="https://img.shields.io/badge/Tech Blog-009900?style=flat-square&logo=velog&logoColor=white"/>
+
+<p>
+✉️ <strong>Contact</strong> : solotache@naver.com
 </p>
+
+
+---
+
+<h2>🎓 Experience</h2>
+
+| 소속 및 단체          | 활동 기간         | 내용 |
+| --------------------- | ----------------- | ----- |
+| 경희대학교             | 2020.03 ~ ing     | 컴퓨터공학과 재학 |
+| LG U+ Ureca           | 2025.08 ~ ing     | LG U+ 유레카 3기 백엔드 개발자 과정 |
+
+
+---
+
+<h2>👨‍💻 Tech Skills</h2>
+
+### ⚒ Backend
+<div>
+  <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/awsec2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
+  <img src="https://img.shields.io/badge/awss3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
+</div>
+
+---
+
+<h2>📝 SNS</h2>
+<div>
+  <a href="https://github.com/Cylin0201">
+    <img src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<h2>👨‍💻 I'm currently working on & My Top Languages</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Cylin0201&theme=dracula&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cylin0201&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
