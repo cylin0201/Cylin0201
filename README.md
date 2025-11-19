@@ -9,8 +9,7 @@
 ✉️ <strong>Contact</strong> : solotache@naver.com
 </p>
 
-
----
+<br>
 
 <h2>🎓 Experience</h2>
 
@@ -19,8 +18,7 @@
 | 경희대학교             | 2020.03 ~ ing     | 컴퓨터공학과 재학 |
 | LG U+ Ureca           | 2025.08 ~ ing     | LG U+ 유레카 3기 백엔드 개발자 과정 |
 
-
----
+<br>
 
 <h2>👨‍💻 Tech Skills</h2>
 
@@ -34,7 +32,7 @@
   <img src="https://img.shields.io/badge/awss3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
 </div>
 
----
+<br>
 
 <h2>📝 SNS</h2>
 <div>
@@ -43,7 +41,7 @@
   </a>
 </div>
 
----
+<br>
 
 <h2>👨‍💻 I'm currently working on & My Top Languages</h2>
 
@@ -57,4 +55,3 @@
     </td>
   </tr>
 </table>
-
