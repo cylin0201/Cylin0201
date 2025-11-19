@@ -16,7 +16,8 @@
 | 소속 및 단체          | 활동 기간         | 내용 |
 | --------------------- | ----------------- | ----- |
 | 경희대학교             | 2020.03 ~ ing     | 컴퓨터공학과 재학 |
-| LG U+ Ureca           | 2025.08 ~ ing     | LG U+ 유레카 3기 백엔드 개발자 과정 |
+| 멀티캠퍼스           | 2025.08 ~ ing     | LG U+ 유레카 3기 백엔드 개발자 과정 |
+| GDGoC KHU | 2025.09 ~ ing  | GDG on Campus KHU 백엔드 멤버 |
 
 <br>
 
@@ -37,9 +38,13 @@
 <h2>📝 SNS</h2>
 <div>
   <a href="https://github.com/Cylin0201">
-    <img src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@cylin0201">
+    <img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Vimeo&logoColor=white"/>
   </a>
 </div>
+
 
 <br>
 
