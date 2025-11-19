@@ -53,10 +53,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Cylin0201&theme=dracula&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cylin0201&theme=dracula&show_icons=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cylin0201&layout=compact&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylin0201&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
