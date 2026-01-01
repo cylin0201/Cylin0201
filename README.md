@@ -48,7 +48,7 @@
 
 <br>
 
-<h2>🍻 I'm currently working on & My Top Languages</h2>
+<h2>🍻 GitHub Stats & Problem Solving</h2>
 
 <table>
   <tr>
@@ -56,7 +56,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=cylin0201&theme=dracula&show_icons=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cylin0201&layout=compact&theme=dracula" />
+      <a href="https://solved.ac/cylin0201/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cylin0201" />
+      </a>
     </td>
   </tr>
 </table>
+
+
